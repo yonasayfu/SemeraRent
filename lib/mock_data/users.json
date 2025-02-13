@@ -1,0 +1,27 @@
+[
+    {
+      "id": "101",
+      "owner_id": "2",
+      "title": "2-Bedroom Apartment in Downtown",
+      "description": "Spacious apartment with modern amenities.",
+      "category": "residential",
+      "rent_price": 1200.00,
+      "location": "Downtown",
+      "latitude": 40.712776,
+      "longitude": -74.005974,
+      "is_available": true
+    },
+    {
+      "id": "102",
+      "owner_id": "2",
+      "title": "Office Space in Business District",
+      "description": "Well-lit and secure office space.",
+      "category": "commercial",
+      "rent_price": 3000.00,
+      "location": "Business District",
+      "latitude": 40.758896,
+      "longitude": -73.985130,
+      "is_available": true
+    }
+  ]
+  
